@@ -8,6 +8,7 @@ int  main()
     {
         sum=sum+i;
     }
+    cout << "sum of natural number";
     cout<<sum;
     return 0;
 }
